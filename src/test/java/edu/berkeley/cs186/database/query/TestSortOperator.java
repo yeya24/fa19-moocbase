@@ -1,9 +1,7 @@
 package edu.berkeley.cs186.database.query;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
 import edu.berkeley.cs186.database.*;
 import edu.berkeley.cs186.database.categories.*;
-import edu.berkeley.cs186.database.common.Pair;
 import edu.berkeley.cs186.database.concurrency.DummyLockContext;
 import edu.berkeley.cs186.database.io.DiskSpaceManager;
 import edu.berkeley.cs186.database.memory.Page;
